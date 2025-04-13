@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 Config.xcconfig
-.DS_Store
-
+=======
+>>>>>>> 385fcc493b3ce4695856113ff893d3e07ee8516b
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
