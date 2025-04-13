@@ -1,5 +1,7 @@
 Config.xcconfig
 .DS_Store
+*.swp
+*.orig
 
 # Xcode
 #
